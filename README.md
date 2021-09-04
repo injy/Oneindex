@@ -7,7 +7,7 @@ Onedrive Directory Index
 直接列出 OneDrive 目录，文件直链下载。  
 
 ## Demo
-[https://xn.tn](https://xn.tn)  
+[https://lib.lz.sc.cn/](https://lib.lz.sc.cn/)  
 
 ## 安装运行
 
@@ -17,6 +17,7 @@ Onedrive Directory Index
 1、PHP空间，PHP 5.6+ 需打开curl支持  
 2、OneDrive 账号 (个人、企业版或教育版/工作或学校帐户)  
 3、OneIndex 程序   
+4、安装前可以修改config/base里的地址为自己的
 
 ## 配置：
 <img width="658" alt="image" src="/media/files/install.gif">  
